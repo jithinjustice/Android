@@ -18,7 +18,7 @@
         android:id="@+id/titleIV"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-         android:src="@drawable/simple_list_selector"
+         android:src="@drawable-hdpi/an"
         android:text="Hello World!" />
         
 </RelativeLayout>
